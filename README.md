@@ -1,2 +1,1 @@
-# adsor-app
-adsor-app
+# chat-app
